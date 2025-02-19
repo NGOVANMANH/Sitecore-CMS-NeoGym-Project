@@ -1,0 +1,35 @@
+﻿---
+ID: "07d5205d-8f1a-4eab-a749-ffa35347e9fd"
+Parent: "19e9bc6d-568a-4131-8ef9-a58a4308ec82"
+Template: "19e9bc6d-568a-4131-8ef9-a58a4308ec82"
+Path: /sitecore/templates/MySite/Project/Main/Common/Content Pages/ContactPage/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e76faab-1a71-4018-bff1-391d49502197"
+      Hint: ContactImage
+      Value: |
+        <image mediaid="{A2C4589F-2101-4C81-95C0-BD78DC1CC4B2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T074433Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a76fdf00-fde2-4cab-96d9-dd642f5b6895"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T075553Z

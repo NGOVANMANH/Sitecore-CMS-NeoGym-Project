@@ -1,0 +1,41 @@
+﻿---
+ID: "6063cd3a-1876-459e-a6b7-fe4d330ed9b8"
+Parent: "e6f79f73-5898-45c0-85a2-b169877b18d2"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/MySite/Feature/PageContent/Why
+SharedFields:
+- ID: "5a14936f-2100-4541-b700-2f122e88f3f8"
+  Hint: Data source
+  Value: /sitecore/content/MySite/Home/Why Us/Local
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: RenderWhy
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: MySite.Feature.PageContent.Controllers.PageContentController, MySite.Feature.PageContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T071527Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b490f37b-0597-4909-a406-6a53828101cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250211T065631Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "fd1094e3-8397-4e66-8504-0e4c5b7aaa8e"
+Parent: "8ba79aae-b568-4a20-aa69-a2dc4d088554"
+Template: "3be11200-1258-45e7-aec4-d0d5edde48e4"
+Path: /sitecore/content/MySite/Global/Footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d11abca-e52e-47c6-9133-6e6af59a3cfc"
+      Hint: HTML
+      Value: |
+        <p>
+                &copy; 2020 All Rights Reserved. Design by
+                <a href="https://html.design/">Free Html Templates</a>
+            </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250214T030857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a46488ce-4672-4c6d-a7a0-d2f8690b7908"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250214T030912Z

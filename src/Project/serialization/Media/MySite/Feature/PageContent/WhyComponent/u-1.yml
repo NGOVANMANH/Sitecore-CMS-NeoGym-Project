@@ -1,0 +1,60 @@
+﻿---
+ID: "3456735f-6fb3-4bab-8ab7-14355de5c4e8"
+Parent: "68117f17-b28f-4495-9649-2323295935b8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/MySite/Feature/PageContent/WhyComponent/u-1"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3456735F6FB34BAB8AB714355DE5C4E8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 67
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ed64bd76-70d0-4712-af38-8ec3b998af57"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1878
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 67 x 67
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 67
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T070001Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: QUALITY EQUIPMENT
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40731ea5-6d27-478b-84c4-743755bf7ae9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T070041Z

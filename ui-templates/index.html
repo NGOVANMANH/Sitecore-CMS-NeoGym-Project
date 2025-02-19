@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* header style */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: antiquewhite;
+            padding: 0 10px;
+        }
+
+        .header-section {
+            display: flex;
+            list-style: none;
+        }
+
+        .header a {
+            text-decoration: none;
+            color: inherit;
+            padding: 10px;
+        }
+
+        .header a:hover {
+            text-decoration: underline;
+        }
+
+        /* product */
+        .product-list {
+            display: grid;
+        }
+
+        .product-card {
+            max-width: 320px;
+        }
+
+        .product-card img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <nav class="header">
+        <span class="header-section logo"><a>Logo</a></span>
+        <ul class="header-section">
+            <li class="header-section-title"><a href="/">Home</a></li>
+            <li class="header-section-title"><a href="/about">About</a></li>
+            <li class="header-section-title"><a href="/contact">Contact</a></li>
+        </ul>
+        <ul class="header-section">
+            <li class="header-section-title"><a href="/login">Login</a></li>
+        </ul>
+    </nav>
+    <section class="product-list">
+        <div class="product-card">
+            <img src="https://www.techsmith.com/blog/wp-content/uploads/2022/03/resize-image.png" alt="product-image">
+            <section>
+                <h2>Product name</h2>
+                <span>Product description</span>
+                <a href="#">Buy now </a>
+            </section>
+        </div>
+        <div class="product-card">
+            <img src="https://www.techsmith.com/blog/wp-content/uploads/2022/03/resize-image.png" alt="product-image">
+            <section>
+                <h2>Product name</h2>
+                <span>Product description</span>
+                <a href="#">Buy now </a>
+            </section>
+        </div>
+        <div class="product-card">
+            <img src="https://www.techsmith.com/blog/wp-content/uploads/2022/03/resize-image.png" alt="product-image">
+            <section>
+                <h2>Product name</h2>
+                <span>Product description</span>
+                <a href="#">Buy now </a>
+            </section>
+        </div>
+    </section>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+﻿@using Sitecore.Mvc;
+
+@{ 
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>@Sitecore.Context.Item.Fields[MySite.Project.Main.Templates.BasePage.Fields.WebName] | @Sitecore.Context.Item.Fields[MySite.Project.Main.Templates.BasePage.Fields.Title]</title>
+
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/assets/css/bootstrap.css" />
+
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="~/assets/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/assets/css/responsive.css" rel="stylesheet" />
+</head>
+
+<body class="@(Sitecore.Context.Item.ID != MySite.Project.Main.Constants.RootID ? "sub_page" : "")">
+    <div class="hero_area">
+        <!-- header section strats -->
+        @Html.Sitecore().Placeholder("header")
+        <!-- end header section -->
+
+        <!-- slider section -->
+        @Html.Sitecore().Placeholder("slider")
+        <!-- end slider section -->
+    </div>
+
+    <!-- main section -->
+    @Html.Sitecore().Placeholder("main")
+    <!-- end main section -->
+
+    <!-- info section -->
+    @Html.Sitecore().Placeholder("info")
+    <!-- end info section -->
+
+    <!-- footer section -->
+    @Html.Sitecore().Placeholder("footer")
+    <!-- footer section -->
+
+    <script src="~/assets/js/jquery-3.4.1.min.js"></script>
+    <script src="~/assets/js/bootstrap.js"></script>
+
+</body>
+
+</html>

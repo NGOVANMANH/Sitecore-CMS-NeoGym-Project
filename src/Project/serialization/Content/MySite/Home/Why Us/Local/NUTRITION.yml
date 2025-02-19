@@ -1,0 +1,45 @@
+﻿---
+ID: "377ccc8d-5ba1-4fb9-b951-71827b40a68a"
+Parent: "9239361f-c5f4-487a-8b17-14d7d9dabe05"
+Template: "aad6c31e-4744-498e-a49f-fc50a0850dcc"
+Path: /sitecore/content/MySite/Home/Why Us/Local/NUTRITION
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T091424Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8759af9d-413b-4dcb-bd07-718c0f4b5923"
+      Hint: Icon
+      Value: |
+        <image mediaid="{EB34D795-EA2D-4369-9D82-9E7A924821E7}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "adb3d3af-28e7-44f5-9a95-902dda2322f5"
+    - ID: "b82999d6-b9b0-4886-8ba4-c8a8aac28012"
+      Hint: Description
+      Value: ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T092244Z
+    - ID: "de076334-d20f-469a-a6ff-917c2329e601"
+      Hint: Title
+      Value: NUTRITION

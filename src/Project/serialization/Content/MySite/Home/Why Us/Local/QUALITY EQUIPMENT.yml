@@ -1,0 +1,41 @@
+﻿---
+ID: "e6a90d15-eb4d-42b8-9d34-a208ee707e34"
+Parent: "9239361f-c5f4-487a-8b17-14d7d9dabe05"
+Template: "aad6c31e-4744-498e-a49f-fc50a0850dcc"
+Path: /sitecore/content/MySite/Home/Why Us/Local/QUALITY EQUIPMENT
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T091424Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8759af9d-413b-4dcb-bd07-718c0f4b5923"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3456735F-6FB3-4BAB-8AB7-14355DE5C4E8}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54e2c013-08b7-4584-83ed-29f27093fa82"
+    - ID: "b82999d6-b9b0-4886-8ba4-c8a8aac28012"
+      Hint: Description
+      Value: ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250210T091450Z
+    - ID: "de076334-d20f-469a-a6ff-917c2329e601"
+      Hint: Title
+      Value: QUALITY EQUIPMENT

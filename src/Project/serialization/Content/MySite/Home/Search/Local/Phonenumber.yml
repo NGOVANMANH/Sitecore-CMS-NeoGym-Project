@@ -1,0 +1,38 @@
+﻿---
+ID: "39376449-8dbe-483a-aa86-c30cf71ab2ad"
+Parent: "3ea7bd3d-39e8-4306-b38e-e5f537b2aeeb"
+Template: "9ba855d0-a81e-4044-b482-bf4ce0f50435"
+Path: /sitecore/content/MySite/Home/Search/Local/Phonenumber
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250207T025158Z
+    - ID: "29b20e77-6dad-4074-8bd5-ccd3ce857ff1"
+      Hint: Content
+      Value: +02 1234567890
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cbc8454-7bab-450b-9e7d-d8b6447104ad"
+    - ID: "abe8b645-b3a8-46bd-a848-cdcafd9d051a"
+      Hint: Icon
+      Value: |
+        <image mediaid="{5BB0B024-78FD-47C8-8F0C-ABC871865834}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T070949Z

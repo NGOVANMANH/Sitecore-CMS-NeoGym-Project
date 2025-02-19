@@ -1,0 +1,42 @@
+﻿---
+ID: "9002299a-c6e7-4358-b9f9-afe39f6ab84d"
+Parent: "e0b59d53-9f70-4e24-9f5d-08fa179b0a79"
+Template: "b9d47aae-e975-4bb3-8706-7dccc8eeec2a"
+Path: /sitecore/content/MySite/Home/Trainers/Local/Jean Doe/Youtube
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T100845Z
+    - ID: "524a74a4-c163-4b97-8664-126e6c82a477"
+      Hint: Icon
+      Value: |
+        <image mediaid="{875AB57C-4520-407D-AB6F-E4B07BC299A9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52ed37a7-0309-47b7-9976-151b20012dcc"
+      Hint: Platform Name
+      Value: Youtube
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cdc6b5a-01c6-47c9-a02e-6b032ff2f007"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T070525Z
+    - ID: "ec69b7f4-0f67-4f4b-9902-94ccf7cf027f"
+      Hint: Url
+      Value: |
+        <link linktype="external" url="https://www.linkedin.com/" />

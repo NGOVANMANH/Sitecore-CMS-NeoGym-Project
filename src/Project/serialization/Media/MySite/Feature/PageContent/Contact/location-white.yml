@@ -1,0 +1,57 @@
+﻿---
+ID: "89af7d20-07f3-41c0-ad13-1aa778b55083"
+Parent: "95ad65b8-a975-4dd3-a882-911ec3aa980f"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/MySite/Feature/PageContent/Contact/location-white"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/89AF7D2007F341C0AD131AA778B55083.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 30
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "89760672-dbe0-4379-ac9b-9d3d8c440252"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAB4AAAAoCAYAAADpE0oSAAACmklEQVRYhbWYSWgUQRSGv7QiiTExZBQVE7dBENwOLngSxIPoRdxAQcGQm5egQQRBUS/e3EAQ9CB6FTwIbogHQQRxCSiIBzUSUdSoEDcSIk9qqIKm6X5V3T3zQ8HM1Kv/m6p6XUs3iQiBWgdsAFYB84AK0AR8B94DT4C7tvhlwJ6yX0ReSbjeiMhhEZmg+WrQ9SLyIgcwKfMHNucFHywBTOp4KPhoHaFOZ3zg3gZAnQ7FWfGsng+8DU3xgloBPDNN4+ABYLnHbxi4CDwCBu1v3cBqoBfo8rQfAubUPtmurw0YqgsiMlV5CppF5HSAz5b4HN/xBJ8IeN5dOeDxeu7AFU/gzRxQV656PKsmaJcnqKsAuE1ExhXPvghYqSTDfeBDgQT+CVxT6pca8Fwl4FYBqNNtpW66AbcpAR9LgD8pdS0GPK4FlAA3K3X/DPirErCsBHiJUjdiwK+VgB0lwLuVuqHIZm6WZgF7C0A3AYuU+gdurf5iMi0j6Dew0JMscU2xm02W3yjQHtkv5xSjVuApUA2Azra7TxbU6BIw5laaDs/qZTQqIkdEZFrKStUuIv0iMhLg053cj88D+wJ69Qt4aLc4sb1cA3QGtL0ObCWxH08GfgCTAgyKaibw2bSNYgZ/gGMNhJ51UBI9dhq2h/V6agzoAP46zyjFfGcDetsTh9aUsZ/eC8jOUD1OY2TdnTrtfEysQ28XAO+SP6YNNfYi1lMHaH8atCbPEabMkA9o3r5raovdNlsL9HaG3QNSlTXUTiYTtxWA7tGgNQWeGk/lGOIrIZ553gi8BBZ7YgbtHcyrPOCKPepqZ6lq6MXPN8dxfQM2KvXbc902C9wS0u5GJ/P6FAGbcjkGvVHEI88cJ2VeL5nzlXaoSxfwH+oIkSuRcraOAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 723
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 30 x 40
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T070853Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aad0b01-5e06-41b0-ad95-e646794225d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T070854Z

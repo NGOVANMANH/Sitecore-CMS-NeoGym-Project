@@ -1,0 +1,42 @@
+﻿---
+ID: "d3436c23-bcc4-4fbf-a6ac-3f7f7190bdb7"
+Parent: "26e4b8bf-5dbf-453e-bed7-7c5ccff9309f"
+Template: "61f4efcf-b735-43f2-990d-f740feeb2862"
+Path: /sitecore/content/MySite/Home/Trainers/Local/Alex Den
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T100811Z
+    - ID: "3cab073d-6514-4a41-b113-ea1b08a0686c"
+      Hint: Name
+      Value: Jean Doe
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cb95d82-9392-4432-b341-a2a7bdbe8a19"
+      Hint: Trainer Thumbnail
+      Value: |
+        <image mediaid="{DCE722EB-BE9D-4A6C-A3BD-D71862A2A2B3}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63c7486d-0132-434b-a876-2cb1aadeb421"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250211T025315Z

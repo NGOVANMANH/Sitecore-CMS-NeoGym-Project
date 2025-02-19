@@ -1,0 +1,2 @@
+C:\Users\vanma\workspace\MySite\MySite.Website.Publishing\obj\Debug\MySite.Website.Publishing.csproj.AssemblyReference.cache
+C:\Users\vanma\workspace\MySite\MySite.Website.Publishing\obj\Debug\MySite.Website.Publishing.csproj.CoreCompileInputs.cache

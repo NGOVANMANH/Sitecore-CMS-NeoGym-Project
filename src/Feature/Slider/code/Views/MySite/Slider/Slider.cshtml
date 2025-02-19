@@ -1,0 +1,45 @@
+﻿@model List<MySite.Feature.Slider.Models.SliderModel>
+
+@if (Model == null || Model.Count < 1)
+{
+    <div class="alert alert-warning" role="alert">
+        No slides found.
+    </div>
+    return;
+}
+
+<section class="slider_section position-relative">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var slide = Model[i];
+                var isActive = i == 0 ? "active" : "";
+                <div class="carousel-item @isActive">
+                    <div class="container">
+                        <div class="col-lg-10 col-md-11 mx-auto">
+                            <div class="detail-box">
+                                <div>
+                                    <h3>@slide.Title</h3>
+                                    <h2>@slide.Subtitle</h2>
+                                    <h1>@slide.MainTitle</h1>
+                                    <p>@Html.Raw(slide.Description)</p>
+                                    <div>
+                                        <a href="@slide.CTA_Link">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <ol class="carousel-indicators">
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var isActive = i == 0 ? "active" : "";
+                <li data-target="#carouselExampleIndicators" data-slide-to="@i" class="@isActive"></li>
+            }
+        </ol>
+    </div>
+</section>

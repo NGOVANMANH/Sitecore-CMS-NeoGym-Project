@@ -1,0 +1,39 @@
+﻿---
+ID: "4d245cc0-f845-4e38-bdf8-0ef998f5c101"
+Parent: "372fe832-bd67-46d0-88fd-fe5ddf77ce29"
+Template: "f6145684-f18d-41dc-92b0-a7d7e5054764"
+Path: /sitecore/content/MySite/Global/Sliders/Slide 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250204T095243Z
+    - ID: "2e885ca4-af37-4077-9da7-9725084b3740"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .
+    - ID: "35319d3d-d96e-4f38-b300-a02116f37770"
+      Hint: CTA_Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{A0F77FF6-5BAF-4EC0-9ABF-B81CAEF61912}" />
+    - ID: "49b7fbb4-b43b-4ef1-b3b1-c99d3adf8675"
+      Hint: Title
+      Value: Fitness
+    - ID: "726d6025-e523-4b2c-8ec3-c972392eb8ae"
+      Hint: MainTitle
+      Value: Neogym
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85d69fa7-b76e-4256-aa36-00cf604ff112"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be0e349d-f566-4222-b058-9cd4966517c3"
+      Hint: SubTitle
+      Value: Training
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T065921Z

@@ -1,0 +1,20 @@
+{
+    "namespace": "Project.MySite",
+    "references": [],
+    "items": {
+        "includes": [
+            {
+                "name": "Templates",
+                "path": "/sitecore/templates/MySite"
+            },
+            {
+                "name": "Renderings",
+                "path": "/sitecore/layout/renderings/MySite"
+            },
+            {
+                "name": "Layouts",
+                "path": "/sitecore/layout/Layouts/MySite"
+            }
+        ]
+    }
+}

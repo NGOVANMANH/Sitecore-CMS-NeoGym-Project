@@ -1,0 +1,42 @@
+﻿---
+ID: "e0b59d53-9f70-4e24-9f5d-08fa179b0a79"
+Parent: "26e4b8bf-5dbf-453e-bed7-7c5ccff9309f"
+Template: "61f4efcf-b735-43f2-990d-f740feeb2862"
+Path: /sitecore/content/MySite/Home/Trainers/Local/Jean Doe
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T100811Z
+    - ID: "3cab073d-6514-4a41-b113-ea1b08a0686c"
+      Hint: Name
+      Value: Jean Doe
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cb95d82-9392-4432-b341-a2a7bdbe8a19"
+      Hint: Trainer Thumbnail
+      Value: |
+        <image mediaid="{926CF476-F0E4-4722-9AC7-C1968524A413}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "503438e7-3775-4259-89bf-256e53e538de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250211T025239Z

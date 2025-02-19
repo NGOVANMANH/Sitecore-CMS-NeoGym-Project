@@ -1,0 +1,41 @@
+﻿---
+ID: "d2a8f673-fa24-4565-ab5d-eb2e89ea494c"
+Parent: "9ba02247-5b52-46eb-acb4-5ae1b3a42491"
+Template: "9ba855d0-a81e-4044-b482-bf4ce0f50435"
+Path: /sitecore/content/MySite/Home/Contact Us/Local/Email
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250207T025158Z
+    - ID: "29b20e77-6dad-4074-8bd5-ccd3ce857ff1"
+      Hint: Content
+      Value: demo@gmail.com
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f025cfa2-702b-49d3-bcbd-b1d46c0814b4"
+    - ID: "abe8b645-b3a8-46bd-a848-cdcafd9d051a"
+      Hint: Icon
+      Value: |
+        <image mediaid="{C9CF3776-A158-47CF-8785-D5E140A2A7B7}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c68cdd16-a629-4dce-9657-62f543a869fb"
+      Hint: Url
+      Value: "<link text='Contact Us' linktype='mailto' style='Contact US' url='mailto:vanmanh0888@gmail.com?subject=Contact Us'  title='' />"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250219T040613Z

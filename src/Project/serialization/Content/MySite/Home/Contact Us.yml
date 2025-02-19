@@ -1,0 +1,72 @@
+﻿---
+ID: "a0f77ff6-5baf-4ec0-9abf-b81caef61912"
+Parent: "de85051b-2008-427c-a528-7c87959fb616"
+Template: "19e9bc6d-568a-4131-8ef9-a58a4308ec82"
+Path: /sitecore/content/MySite/Home/Contact Us
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B547DDE2-EDFE-4EB7-A2AC-060FD1D05C09}">
+        <r
+          ds="{DE85051B-2008-427C-A528-7C87959FB616}"
+          id="{9B69CCDA-F0CB-47B1-9555-5429971FBEAD}"
+          par="CSSStyles"
+          ph="header"
+          uid="{4C1EA308-AB8D-4D4F-A870-D6E2E42F57D6}"
+          ccb="Clear on publish" />
+        <r
+          id="{6B805682-376A-401A-B5B1-C1343996CD27}"
+          ph="main"
+          uid="{125036DC-BE9B-4394-9DC4-5AB143C1E4FC}" />
+        <r
+          ds=""
+          id="{54ACA417-644E-483E-96C3-0AC1265891C9}"
+          par="CSSStyles"
+          ph="footer"
+          uid="{EDCC84BF-9706-48DB-8A27-CCE962663436}"
+          ccb="Clear on publish" />
+        <r
+          ds="{9BA02247-5B52-46EB-ACB4-5AE1B3A42491}"
+          id="{28B55659-419A-4800-9D7E-21FE575BA37A}"
+          par="CSSStyles"
+          ph="info"
+          uid="{75298F19-1C68-4A98-8CAF-059CEAD74008}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e76faab-1a71-4018-bff1-391d49502197"
+      Hint: ContactImage
+      Value: |
+        <image mediaid="{A2C4589F-2101-4C81-95C0-BD78DC1CC4B2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T082534Z
+    - ID: "34de2504-96d2-419c-ba2e-1893074e541a"
+      Hint: NavUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{A0F77FF6-5BAF-4EC0-9ABF-B81CAEF61912}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c254500-97fb-40fc-9efe-7fa954edc94c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d4b93930-a45d-491a-851e-9fac830e0c4e"
+      Hint: Title
+      Value: Contact Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250211T032354Z
+    - ID: "e220844a-f5df-4cf8-a311-bcaa4d7a1c63"
+      Hint: NavTitle
+      Value: Contact Us

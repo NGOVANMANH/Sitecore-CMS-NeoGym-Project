@@ -1,0 +1,60 @@
+﻿---
+ID: "875ab57c-4520-407d-ab6f-e4b07bc299a9"
+Parent: "2e24cbc3-9298-4556-ac12-04338867c090"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/MySite/Feature/PageContent/Social Icons/twitter
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/875AB57C4520407DAB6FE4B07BC299A9.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 30
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "bae122be-5367-4d1c-87a7-0577ff6c3dba"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAYAAADtaU2/AAACJUlEQVRIibWWTYhOURjHf46xYPJVYjPKnEb5SBYSSjGWklIWmmzQjIUiFixs2Jki1CyEopmJRBELpEFsbHyVjfBYTCMJM9OQqPfSo+fU7br3vu95ve+/brdzznOe3/l4znnOpEp7O/8jJ0Li/TxgH7ARWAD8BJ4Cl5zIYNp94r3avAzglcBa4GQdY+gErgMzC9pvAkeAhcBBYDawLICPAYeAHcDFCKgH3kXYTziRGYn3rS1Wsdj+F4A5wPEaHQ1EQL8CRxPv+4CRMOOHwLqU0TVgD/CpxFEH8CYC/AOYqlBgubPK9xmjrcBr4AAwpcDRiggoBr3iRNqcyJcAvpxjOAs4YXvYC6zKtGcHW03jTmRbsEkfp/sWoWV6C7ywwWh0dquPGsG6x3OdSEULLbaUS4BNwC2DFznrsK8eTQRoACdAP/BdG608uU7nZRpOtym4YjM93ARYWs/ThRBcfU2GqobywB+B3U2E/i4Cq84Cu7J70SBddSLfisBYkPUAdyzIGqXerJ8suAu4DSyNOJ/VdNeJPKsG1ktfjeY3ELwzrzIL1iBYAzxqELTHiXyoBaz6ZZlqP/AAeFXnfp93IueKGvPAQaeADcA9W4kYaRbqLrMvAuv9vR14bDOPuUJPp7NQkfTKXA2stwdaK7DIlrotcpafgb1OJC/F/iMFj9nbqXRpSjQOnNGz6kRGa+2UzsfTgM3AFntxTi/pp8+YJ8AN/WKAfwX8ATzNijdN9mh3AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 606
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 30 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250211T024840Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Twitter Logo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b201747-8191-4a2b-aa3d-5267685e7a0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250211T024922Z

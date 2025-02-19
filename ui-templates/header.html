@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: antiquewhite;
+            padding: 0 10px;
+        }
+
+        .header-section {
+            display: flex;
+            list-style: none;
+        }
+
+        .header a {
+            text-decoration: none;
+            color: inherit;
+            padding: 10px;
+        }
+
+        .header a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="header">
+        <span class="header-section logo"><a>Logo</a></span>
+        <ul class="header-section">
+            <li class="header-section-title"><a href="/">Home</a></li>
+            <li class="header-section-title"><a href="/about">About</a></li>
+            <li class="header-section-title"><a href="/contact">Contact</a></li>
+        </ul>
+        <ul class="header-section">
+            <li class="header-section-title"><a href="/login">Login</a></li>
+        </ul>
+    </nav>
+</body>
+
+</html>

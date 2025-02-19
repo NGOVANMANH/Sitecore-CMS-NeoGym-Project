@@ -1,0 +1,42 @@
+﻿---
+ID: "f00034e2-8cb2-4394-81cc-b30b13d2aefb"
+Parent: "96af8072-ef2b-4498-aa5a-58a5c6d78f55"
+Template: "b9d47aae-e975-4bb3-8706-7dccc8eeec2a"
+Path: /sitecore/content/MySite/Home/Trainers/Local/Smirth Jon/Tiktok
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T100528Z
+    - ID: "524a74a4-c163-4b97-8664-126e6c82a477"
+      Hint: Icon
+      Value: |
+        <image mediaid="{875AB57C-4520-407D-AB6F-E4B07BC299A9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52ed37a7-0309-47b7-9976-151b20012dcc"
+      Hint: Platform Name
+      Value: Tiktok
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "317dffc5-d1f1-404e-9cf6-4185e8cc5722"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250212T070450Z
+    - ID: "ec69b7f4-0f67-4f4b-9902-94ccf7cf027f"
+      Hint: Url
+      Value: |
+        <link linktype="external" url="https://www.tiktok.com/foryou?lang=vi-VN" />

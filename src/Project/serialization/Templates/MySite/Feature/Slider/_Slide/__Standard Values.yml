@@ -1,0 +1,43 @@
+﻿---
+ID: "65395ba2-46dc-4dbe-9f52-6a5159cdd9e3"
+Parent: "f6145684-f18d-41dc-92b0-a7d7e5054764"
+Template: "f6145684-f18d-41dc-92b0-a7d7e5054764"
+Path: /sitecore/templates/MySite/Feature/Slider/_Slide/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250204T084139Z
+    - ID: "2e885ca4-af37-4077-9da7-9725084b3740"
+      Hint: Description
+      Value: Slider Description
+    - ID: "49b7fbb4-b43b-4ef1-b3b1-c99d3adf8675"
+      Hint: Title
+      Value: Slider Title
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "726d6025-e523-4b2c-8ec3-c972392eb8ae"
+      Hint: MainTitle
+      Value: Slider Main Title
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "375e7712-3183-4ebc-a68b-7da3f48b0e3f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be0e349d-f566-4222-b058-9cd4966517c3"
+      Hint: SubTitle
+      Value: Slider Sub Title
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250204T084236Z
