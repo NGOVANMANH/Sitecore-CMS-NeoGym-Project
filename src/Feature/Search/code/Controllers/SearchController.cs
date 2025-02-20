@@ -1,34 +1,41 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http.Results;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using MySite.Feature.Search.Repositories;
 using Newtonsoft.Json;
-using Sitecore.ContentSearch;
-using Sitecore.ContentSearch.SearchTypes;
+using Newtonsoft.Json.Serialization;
 using Sitecore.Mvc.Controllers;
 
 namespace MySite.Feature.Search.Controllers
 {
     public class SearchController : SitecoreController
     {
-        public ActionResult Query(string keyword)
+        private readonly ISearchRepository _searchRepository;
+
+        public SearchController(ISearchRepository searchRepository)
         {
-            var rootItem = Sitecore.Context.Database.GetItem(Sitecore.Context.Site.StartPath);
-            var index = ContentSearchManager.GetIndex("sitecore_web_index");
+            _searchRepository = searchRepository;
+        }
 
-            var results = new List<SearchResultItem>();
+        [HttpGet]
+        public ActionResult Query(string keyword, int page=1, int pageSize=5)
+        {
+            if (page < 1) page = 1;
+            if (pageSize < 1) pageSize = 5;
 
-            using (var context = index.CreateSearchContext()) 
-            {
-                results = context.GetQueryable<SearchResultItem>()
-                    .Where(i => i.Name.Contains(keyword) || i.Content.Contains(keyword))
-                    .ToList();
-            }
+            var results = _searchRepository.Search(keyword, page, pageSize);
 
-            return Content(JsonConvert.SerializeObject(results, new JsonSerializerSettings
-            {
-                ReferenceLoopHandling = ReferenceLoopHandling.Ignore
-            }), "application/json");
+            return Content(
+                JsonConvert.SerializeObject(
+                    results
+                    , new JsonSerializerSettings
+                    {
+                        ContractResolver = new DefaultContractResolver
+                        {
+                            NamingStrategy = new CamelCaseNamingStrategy()
+                        },
+                        Formatting = Formatting.Indented,
+                        ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+                    }),
+                "application/json");
         }
     }
 }

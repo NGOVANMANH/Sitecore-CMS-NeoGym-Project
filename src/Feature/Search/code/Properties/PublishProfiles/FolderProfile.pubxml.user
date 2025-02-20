@@ -5,12 +5,15 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\mysite.cm</_PublishTargetUrl>
-    <History>True|2025-02-19T06:33:23.6925019Z||;True|2025-02-18T11:02:41.1056306+07:00||;True|2025-02-18T10:56:18.4974319+07:00||;True|2025-02-18T10:45:56.6761563+07:00||;True|2025-02-18T10:42:07.6196601+07:00||;True|2025-02-18T10:41:57.9482813+07:00||;True|2025-02-18T10:38:30.8313153+07:00||;True|2025-02-14T15:03:48.5079782+07:00||;True|2025-02-14T15:01:06.2607608+07:00||;True|2025-02-14T14:48:05.8219696+07:00||;True|2025-02-14T14:44:44.5563460+07:00||;True|2025-02-14T14:36:47.8132116+07:00||;True|2025-02-14T14:22:41.5556102+07:00||;True|2025-02-14T14:16:13.6047742+07:00||;True|2025-02-13T16:49:03.5709517+07:00||;True|2025-02-13T15:44:30.2958296+07:00||;True|2025-02-13T14:16:48.2941486+07:00||;</History>
+    <History>True|2025-02-20T07:22:33.7164488Z||;True|2025-02-20T14:17:17.0344594+07:00||;True|2025-02-20T14:13:03.5638284+07:00||;True|2025-02-20T14:05:38.1397130+07:00||;True|2025-02-20T14:02:49.6764692+07:00||;True|2025-02-20T13:58:32.0518414+07:00||;True|2025-02-20T13:53:57.4326675+07:00||;True|2025-02-20T10:59:06.9461033+07:00||;True|2025-02-20T10:57:05.7684726+07:00||;True|2025-02-20T09:51:50.7863960+07:00||;True|2025-02-19T13:33:23.6925019+07:00||;True|2025-02-18T11:02:41.1056306+07:00||;True|2025-02-18T10:56:18.4974319+07:00||;True|2025-02-18T10:45:56.6761563+07:00||;True|2025-02-18T10:42:07.6196601+07:00||;True|2025-02-18T10:41:57.9482813+07:00||;True|2025-02-18T10:38:30.8313153+07:00||;True|2025-02-14T15:03:48.5079782+07:00||;True|2025-02-14T15:01:06.2607608+07:00||;True|2025-02-14T14:48:05.8219696+07:00||;True|2025-02-14T14:44:44.5563460+07:00||;True|2025-02-14T14:36:47.8132116+07:00||;True|2025-02-14T14:22:41.5556102+07:00||;True|2025-02-14T14:16:13.6047742+07:00||;True|2025-02-13T16:49:03.5709517+07:00||;True|2025-02-13T15:44:30.2958296+07:00||;True|2025-02-13T14:16:48.2941486+07:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Config/Include/MySite/Feature/Feature.Search.config">
       <publishTime>02/18/2025 10:38:12</publishTime>
+    </File>
+    <File Include="App_Config/Include/MySite/Feature/Feature.Search.DI.config">
+      <publishTime>02/20/2025 10:35:46</publishTime>
     </File>
     <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
       <publishTime>10/18/2022 23:19:40</publishTime>
@@ -70,10 +73,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>07/25/2012 18:48:56</publishTime>
     </File>
     <File Include="bin/MySite.Feature.Search.dll">
-      <publishTime>02/19/2025 13:32:57</publishTime>
+      <publishTime>02/20/2025 14:22:27</publishTime>
     </File>
     <File Include="bin/MySite.Feature.Search.pdb">
-      <publishTime>02/19/2025 13:32:57</publishTime>
+      <publishTime>02/20/2025 14:22:27</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.Bson.dll">
       <publishTime>11/28/2018 06:10:18</publishTime>
@@ -478,7 +481,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/01/2018 19:20:56</publishTime>
     </File>
     <File Include="Views/MySite/Search/Search.cshtml">
-      <publishTime>02/18/2025 13:06:21</publishTime>
+      <publishTime>02/20/2025 14:22:14</publishTime>
     </File>
     <File Include="Views/MySite/Search/SearchResults.cshtml">
       <publishTime>02/13/2025 16:48:33</publishTime>

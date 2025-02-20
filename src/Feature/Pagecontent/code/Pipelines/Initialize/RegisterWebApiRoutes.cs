@@ -10,7 +10,7 @@ namespace MySite.Feature.PageContent.Pipelines.Initialize
         {
             RouteTable.Routes.MapRoute(
                 name: "MySite.Feature.PageContent.Api",
-                url: $"mysite/api/contact/{{action}}/{{id}}",
+                url: $"mysite/api/feature/contact/{{action}}/{{id}}",
                 defaults: new { controller = "ContactApi" , id = UrlParameter.Optional },
                 namespaces: new[] { $"MySite.Feature.PageContent.Controllers" }
             );

@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\mysite.cm</_PublishTargetUrl>
-    <History>True|2025-02-19T08:26:33.3641282Z||;True|2025-02-19T15:19:31.7393234+07:00||;True|2025-02-19T15:15:59.8838676+07:00||;</History>
+    <History>True|2025-02-20T02:52:01.2516278Z||;True|2025-02-19T15:26:33.3641282+07:00||;True|2025-02-19T15:19:31.7393234+07:00||;True|2025-02-19T15:15:59.8838676+07:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -70,10 +70,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/18/2022 23:19:38</publishTime>
     </File>
     <File Include="bin/MySite.Foundation.Email.dll">
-      <publishTime>02/19/2025 15:59:09</publishTime>
+      <publishTime>02/20/2025 09:51:23</publishTime>
     </File>
     <File Include="bin/MySite.Foundation.Email.pdb">
-      <publishTime>02/19/2025 15:59:09</publishTime>
+      <publishTime>02/20/2025 09:51:23</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>03/17/2021 20:03:36</publishTime>
